@@ -1,7 +1,7 @@
-git+https://github.com/jina-ai/jina.git@v1.2.0#egg=jina[hub,http]
+jina[http]==2.0.0rc6
+click==8.0.1
 torch==1.7.1
 transformers==4.5.1
 requests~=2.24
 pytest==6.1.2
-kaggle
-
+kaggle==1.5.12
